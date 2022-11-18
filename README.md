@@ -9,6 +9,6 @@ An interactive version of the notebooks can be found [here](https://mybinder.org
 
 
 ## Intro
-
+ ![Image](ABBA_TopPop_1974.png)
 
 ## Bibliographic References
