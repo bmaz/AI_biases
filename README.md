@@ -8,6 +8,7 @@ An interactive version of the notebooks can be found [here](https://mybinder.org
 * [Bibliographic References](#bibliographic_references)
 
 
-##Intro
+## Intro
 
-##Bibliographic References
+
+## Bibliographic References
